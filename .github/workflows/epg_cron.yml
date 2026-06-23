@@ -1,0 +1,42 @@
+name: Atualizar Stream e EPG
+
+on:
+  schedule:
+    # Roda todos os dias às 04:00 UTC (01:00 no horário de Brasília)
+    - cron: '0 4 * * *'
+  workflow_dispatch: # Permite que você rode o script manualmente pelo painel do GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Baixa o código do seu repositório para a máquina virtual
+    - name: Checkout do código
+      uses: actions/checkout@v4
+
+    # 2. Configura o ambiente Python
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    # 3. Instala as dependências (neste caso, apenas o requests)
+    - name: Instalar dependências
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    # 4. Executa o script que gera o canais.m3u8 e o playlist_com_epg.xml
+    - name: Executar Script de Extração
+      run: python atualizar_iptv.py
+
+    # 5. Salva as alterações de volta no seu repositório do GitHub
+    - name: Commit e Push dos arquivos gerados
+      run: |
+        git config --local user.email "104462712+JulioCesarXY@users.noreply.github.com"
+        git config --local user.name "JulioCesarXY"
+        git add BatistaPlay.m3u8 BatistaPlay_EPG.xml
+        
+        # Só faz o commit se houver alguma alteração real nos arquivos
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 EPG & Streams Atualizados ✅ [CRON]" && git push)
