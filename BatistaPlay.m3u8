@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/JulioCesarXY/EPG-BatistaPlay/refs/heads/main/BatistaPlay_EPG.xml"
 #EXTINF:-1 tvg-id="3fe108b6-f51f-4fdf-b054-3339cd8f48cf" tvg-name="Fox Kids" tvg-logo="https://i.postimg.cc/WbMWR38h/fox-kids-network.jpg" group-title="Infantis",5 - Fox Kids
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o
 #EXTINF:-1 tvg-id="16052a14-c050-4c59-b49f-adb719649dae" tvg-name="Já Viu TV" tvg-logo="https://i.postimg.cc/DZTjC0J0/ja-viu-tv.jpg" group-title="Variedades",6 - Já Viu TV
