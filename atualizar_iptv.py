@@ -22,6 +22,9 @@ HEADERS = {
     "referer": "https://batistaplay.net/"
 }
 
+# Link do seu EPG no GitHub para embutir na Playlist
+LINK_DO_SEU_EPG = "https://raw.githubusercontent.com/JulioCesarXY/EPG-BatistaPlay/refs/heads/main/BatistaPlay_EPG.xml"
+
 def gerar_programacao_fallback():
     """Gera blocos contínuos de 2 horas preenchendo as 24h para canais sem EPG oficial."""
     programas = []
@@ -78,11 +81,13 @@ def processar_tudo():
         print(f"Erro na conexão: {e}")
         return
 
-    # =========================================================
-    # PASSO 1: GERAR ARQUIVO DE STREAMS (BatistaPlay.m3u8)
-    # =========================================================
+    # ===========================================================
+    # PASSO 1: GERAR ARQUIVO DE STREAMS COM EPG EMBUTIDO (BatistaPlay.m3u8)
+    # ===========================================================
     print("[->] Criando lista de reprodução M3U8...")
-    m3u_content = "#EXTM3U\n"
+    
+    # Adicionando o x-tvg-url na tag #EXTM3U para injetar o EPG do seu GitHub
+    m3u_content = f'#EXTM3U x-tvg-url="{LINK_DO_SEU_EPG}"\n'
     
     for canal in canais:
         uuid_canal = canal.get("id")
@@ -94,7 +99,6 @@ def processar_tudo():
         categoria_obj = canal.get("categories")
         categoria = categoria_obj.get("name", "Geral") if isinstance(categoria_obj, dict) else "Geral"
         
-        # O tvg-id recebe exatamente o UUID para casar perfeitamente com o arquivo XML
         m3u_content += (
             f'#EXTINF:-1 tvg-id="{uuid_canal}" tvg-name="{nome_canal}" '
             f'tvg-logo="{logo}" group-title="{categoria}",{numero} - {nome_canal}\n'
@@ -111,7 +115,6 @@ def processar_tudo():
     print("[->] Estruturando Guia de Programação XMLTV...")
     root = ET.Element("tv")
 
-    # Mapeia cabeçalho de canais no XML
     for canal in canais:
         id_canal = canal.get("id")
         nome_canal = canal.get("name", "Canal Sem Nome")
@@ -121,7 +124,6 @@ def processar_tudo():
         if canal.get("logo_url"):
             ET.SubElement(channel_elem, "icon", src=canal.get("logo_url"))
 
-    # Mapeia a grade de horários
     for canal in canais:
         channel_id = canal.get("id")
         nome_canal = canal.get("name")
@@ -150,6 +152,8 @@ def processar_tudo():
 
     tree = ET.ElementTree(root)
     ET.indent(tree, space="  ", level=0)
+    
+    
     tree.write("BatistaPlay_EPG.xml", encoding="utf-8", xml_declaration=True)
     print("[✓] Arquivo 'BatistaPlay_EPG.xml' exportado com sucesso!")
     print("\n[Operação Concluída] Ambos os arquivos estão prontos para uso sincronizado.")
