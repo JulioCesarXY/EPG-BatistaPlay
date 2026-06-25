@@ -160,7 +160,7 @@ https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8
 #EXTINF:-1 tvg-id="694ea749-ee90-446c-ad00-742256c77c74" tvg-name="Ministério Infantil TV" tvg-logo="https://i.postimg.cc/GtrgvgjN/ministerio_infantil.jpg" group-title="Infantis",84 - Ministério Infantil TV
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:-1 tvg-id="8babd689-b588-48b4-9725-5e092f32ad9f" tvg-name="TV Brasil Sinop" tvg-logo="https://i.postimg.cc/fWYmFj7D/tv_brasil_sinop.jpg" group-title="Variedades",85 - TV Brasil Sinop
-https://stmv4.liveplushd.com.br/tvsinop/tvsinop/playlist.m3u8
+https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8
 #EXTINF:-1 tvg-id="86a0d5ea-8062-4bdb-b217-f51d3cefc95b" tvg-name="Em breve novo canal" tvg-logo="https://i.postimg.cc/25pdPvHj/aviso_mais_um_canal.jpg" group-title="Recomendados",86 - Em breve novo canal
 https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
 #EXTINF:-1 tvg-id="defcbd01-3017-44ad-94d8-e3b43272a3c4" tvg-name="Mais Um" tvg-logo="https://i.postimg.cc/NFWhnwMH/mais_um.jpg" group-title="Variedades",87 - Mais Um
@@ -221,8 +221,8 @@ https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8
 https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="ef279cee-892f-401c-b224-26f05e4d8735" tvg-name="IPP TV" tvg-logo="https://i.postimg.cc/mrWx6hXb/rede-ipptvp-logo.jpg" group-title="Religiosos",115 - IPP TV
 https://tv.ippmais.com.br/live/26092358420999225499.m3u8
-#EXTINF:-1 tvg-id="c4d78411-bfd4-4eff-a546-fc1dbc06017d" tvg-name="TV Lagoa Dantas" tvg-logo="https://i.postimg.cc/8PYxVnzs/tv-lagoa-dantas.jpg" group-title="Variedades",116 - TV Lagoa Dantas
-https://stmv5.samcast.com.br/lucas7022/lucas7022/playlist.m3u8
+#EXTINF:-1 tvg-id="c4d78411-bfd4-4eff-a546-fc1dbc06017d" tvg-name="Rede Novelas" tvg-logo="https://i.postimg.cc/tJ0D7PQV/rede-novelas.jpg" group-title="Recomendados",116 - Rede Novelas
+https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8
 #EXTINF:-1 tvg-id="ebda25d8-6033-47ff-a4cf-bb7eaa5c917f" tvg-name="Nickonline" tvg-logo="https://i.postimg.cc/BQcPnGB4/nick-online.jpg" group-title="Infantis",117 - Nickonline
 https://x1co.com.br/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="04fa9fa6-dd9c-4779-b9f8-22523a7ee626" tvg-name="Comedy Club" tvg-logo="https://i.postimg.cc/25fbwYpT/comedy-club.jpg" group-title="Variedades",118 - Comedy Club
