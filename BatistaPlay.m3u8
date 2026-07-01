@@ -167,8 +167,8 @@ https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="d3982c36-2eda-4102-bb52-9ee92f6d6526" tvg-name="Rabelo" tvg-logo="https://i.postimg.cc/kgRYS85n/tv-rabelo.jpg" group-title="Religiosos",88 - Rabelo
 https://stv1.ipstm.net/p/3639/stream/play.m3u8
-#EXTINF:-1 tvg-id="98c3db29-cec2-45e4-932c-2747185d2e54" tvg-name="Anim Geek" tvg-logo="https://i.postimg.cc/0Q48vk2P/anime_geek.jpg" group-title="Recomendados",89 - Anim Geek
-https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
+#EXTINF:-1 tvg-id="98c3db29-cec2-45e4-932c-2747185d2e54" tvg-name="TV Singular" tvg-logo="https://i.postimg.cc/d3Fn5pD7/tv-singular.png" group-title="Recomendados",89 - TV Singular
+https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1486298669.m3u8
 #EXTINF:-1 tvg-id="7521941a-7484-4549-8d3e-f30d38836cc5" tvg-name="Latina Sat" tvg-logo="https://i.postimg.cc/q7RqHZXQ/latina_sat.jpg" group-title="Variedades",90 - Latina Sat
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="38523712-00aa-4360-92a5-88a99ea5d54a" tvg-name="TV Carioca Internacional" tvg-logo="https://i.postimg.cc/0QCKYQpS/tv-carioca.jpg" group-title="Variedades",91 - TV Carioca Internacional
