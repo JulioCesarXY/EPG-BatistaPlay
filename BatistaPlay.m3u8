@@ -56,7 +56,7 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8?hls_ctx=47k5j50l
 #EXTINF:-1 tvg-id="8521bcbf-4dc7-4909-95a1-09131f69361e" tvg-name="TV Cultura" tvg-logo="https://i.postimg.cc/g2pVCyLn/tv-cultura.jpg" group-title="TV Aberta",32 - TV Cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2010912641.m3u8
 #EXTINF:-1 tvg-id="9187a9a5-7d7b-4ce3-a4a5-53079f95e04f" tvg-name="SBT" tvg-logo="https://i.postimg.cc/3RkmXnVb/sbt.png" group-title="TV Aberta",33 - SBT
-https://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8
+https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
 #EXTINF:-1 tvg-id="3a2d403a-2f01-47bd-91a5-a0ce2b4a979c" tvg-name="Xtreme TV" tvg-logo="https://i.postimg.cc/s2DpXVcz/xtreme-tv.png" group-title="Recomendados",34 - Xtreme TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 #EXTINF:-1 tvg-id="0722fe6c-dbb8-44a8-a88e-be0985ebc981" tvg-name="AG TV" tvg-logo="https://i.postimg.cc/63D86yTn/ag-tv.jpg" group-title="Recomendados",35 - AG TV
@@ -94,7 +94,7 @@ https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 #EXTINF:-1 tvg-id="6cfb3afe-1881-42a3-b352-606a66e6e59f" tvg-name="BS TV Online" tvg-logo="https://i.postimg.cc/bJk7dg4Q/bstv-online.jpg" group-title="Recomendados",51 - BS TV Online
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 tvg-id="0f6f970c-e72c-4468-a522-9b0522d45b17" tvg-name="Globo SP" tvg-logo="https://i.postimg.cc/TY6wHCzf/redeglobo.jpg" group-title="TV Aberta",52 - Globo SP
-https://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
+https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
 #EXTINF:-1 tvg-id="dfbddef4-cb59-42a9-a7b4-09f119d0f848" tvg-name="IBT" tvg-logo="https://i.postimg.cc/gcBZ12fV/rede_ibt.jpg" group-title="Variedades",53 - IBT
 https://stmv1.paineldevideo.com.br/parceriawebtv1/parceriawebtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="fda954fe-0e3c-4773-ab29-adc276c9e3ad" tvg-name="TV São Gabriel" tvg-logo="https://i.postimg.cc/s2wN6x62/tv-sao-gabriel.jpg" group-title="Variedades",54 - TV São Gabriel
