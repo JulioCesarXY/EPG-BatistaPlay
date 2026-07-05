@@ -49,8 +49,8 @@ https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
 #EXTINF:-1 tvg-id="b24c2787-ea8c-44c1-bd9f-b8491ddf07e5" tvg-name="Rede Super TV" tvg-logo="https://i.postimg.cc/KzBqPDvc/rede-supertv.jpg" group-title="Religiosos",29 - Rede Super TV
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8
-#EXTINF:-1 tvg-id="4e986e58-9db4-4be3-9a04-181493b3b872" tvg-name="TV Record (Goiás)" tvg-logo="https://i.postimg.cc/PfKLvRv5/record-tv.png" group-title="TV Aberta",30 - TV Record (Goiás)
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="4e986e58-9db4-4be3-9a04-181493b3b872" tvg-name="TV Record" tvg-logo="https://i.postimg.cc/PfKLvRv5/record-tv.png" group-title="TV Aberta",30 - TV Record
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="a3d0cbec-4cbb-4c8e-b0f5-509b1c34c4da" tvg-name="Canal 29" tvg-logo="https://i.postimg.cc/3Rf8d64W/canal-29-logo.png" group-title="Recomendados",31 - Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8?hls_ctx=47k5j50l
 #EXTINF:-1 tvg-id="8521bcbf-4dc7-4909-95a1-09131f69361e" tvg-name="TV Cultura" tvg-logo="https://i.postimg.cc/g2pVCyLn/tv-cultura.jpg" group-title="TV Aberta",32 - TV Cultura
@@ -94,7 +94,7 @@ https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 #EXTINF:-1 tvg-id="6cfb3afe-1881-42a3-b352-606a66e6e59f" tvg-name="BS TV Online" tvg-logo="https://i.postimg.cc/bJk7dg4Q/bstv-online.jpg" group-title="Recomendados",51 - BS TV Online
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 tvg-id="0f6f970c-e72c-4468-a522-9b0522d45b17" tvg-name="Globo SP" tvg-logo="https://i.postimg.cc/TY6wHCzf/redeglobo.jpg" group-title="TV Aberta",52 - Globo SP
-https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
+https://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-id="dfbddef4-cb59-42a9-a7b4-09f119d0f848" tvg-name="IBT" tvg-logo="https://i.postimg.cc/gcBZ12fV/rede_ibt.jpg" group-title="Variedades",53 - IBT
 https://stmv1.paineldevideo.com.br/parceriawebtv1/parceriawebtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="fda954fe-0e3c-4773-ab29-adc276c9e3ad" tvg-name="TV São Gabriel" tvg-logo="https://i.postimg.cc/s2wN6x62/tv-sao-gabriel.jpg" group-title="Variedades",54 - TV São Gabriel
