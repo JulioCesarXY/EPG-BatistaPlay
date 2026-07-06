@@ -52,11 +52,11 @@ https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8
 #EXTINF:-1 tvg-id="4e986e58-9db4-4be3-9a04-181493b3b872" tvg-name="TV Record" tvg-logo="https://i.postimg.cc/PfKLvRv5/record-tv.png" group-title="TV Aberta",30 - TV Record
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="a3d0cbec-4cbb-4c8e-b0f5-509b1c34c4da" tvg-name="Canal 29" tvg-logo="https://i.postimg.cc/3Rf8d64W/canal-29-logo.png" group-title="Recomendados",31 - Canal 29
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8?hls_ctx=47k5j50l
+https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
 #EXTINF:-1 tvg-id="8521bcbf-4dc7-4909-95a1-09131f69361e" tvg-name="TV Cultura" tvg-logo="https://i.postimg.cc/g2pVCyLn/tv-cultura.jpg" group-title="TV Aberta",32 - TV Cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2010912641.m3u8
 #EXTINF:-1 tvg-id="9187a9a5-7d7b-4ce3-a4a5-53079f95e04f" tvg-name="SBT" tvg-logo="https://i.postimg.cc/3RkmXnVb/sbt.png" group-title="TV Aberta",33 - SBT
-https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
+https://s1.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-id="3a2d403a-2f01-47bd-91a5-a0ce2b4a979c" tvg-name="Xtreme TV" tvg-logo="https://i.postimg.cc/s2DpXVcz/xtreme-tv.png" group-title="Recomendados",34 - Xtreme TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 #EXTINF:-1 tvg-id="0722fe6c-dbb8-44a8-a88e-be0985ebc981" tvg-name="AG TV" tvg-logo="https://i.postimg.cc/63D86yTn/ag-tv.jpg" group-title="Recomendados",35 - AG TV
@@ -224,7 +224,7 @@ https://tv.ippmais.com.br/live/26092358420999225499.m3u8
 #EXTINF:-1 tvg-id="c4d78411-bfd4-4eff-a546-fc1dbc06017d" tvg-name="Rede Novelas" tvg-logo="https://i.postimg.cc/tJ0D7PQV/rede-novelas.jpg" group-title="Recomendados",116 - Rede Novelas
 https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8
 #EXTINF:-1 tvg-id="ebda25d8-6033-47ff-a4cf-bb7eaa5c917f" tvg-name="Nickonline" tvg-logo="https://i.postimg.cc/BQcPnGB4/nick-online.jpg" group-title="Infantis",117 - Nickonline
-https://x1co.com.br/hls/0/stream.m3u8
+https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="04fa9fa6-dd9c-4779-b9f8-22523a7ee626" tvg-name="Comedy Club" tvg-logo="https://i.postimg.cc/25fbwYpT/comedy-club.jpg" group-title="Variedades",118 - Comedy Club
 https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
 #EXTINF:-1 tvg-id="50131d26-4dd1-429f-b191-dd4f383e677f" tvg-name="Os Detetives" tvg-logo="https://i.postimg.cc/L5q8SQKm/os-detetives.jpg" group-title="Recomendados",119 - Os Detetives
