@@ -22,7 +22,7 @@ https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg0035
 #EXTINF:-1 tvg-id="b277ffea-8bf3-42ef-8f8f-22781302b090" tvg-name="Filmelier TV" tvg-logo="https://i.postimg.cc/0jf73RwY/filmeliertv.jpg" group-title="Filmes",15 - Filmelier TV
 https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="9f850d57-ffff-4e9f-af3c-7537c1f71d32" tvg-name="ISTV" tvg-logo="https://i.postimg.cc/GmZSkzZZ/logo-istv.png" group-title="Variedades",16 - ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1117524747.m3u8
+https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1732472063.m3u8
 #EXTINF:-1 tvg-id="650a32d6-6730-46ce-87d2-a2e1ca883759" tvg-name="TV Evangelizar" tvg-logo="https://i.postimg.cc/9fW8VhLV/gln-tv-capa.jpg" group-title="Religiosos",17 - TV Evangelizar
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-id="ef248fb8-aebc-45de-b701-198727efdf1f" tvg-name="Rede Brasil" tvg-logo="https://i.postimg.cc/rFzfZmQc/rede-brasil-tv.jpg" group-title="Recomendados",18 - Rede Brasil
@@ -247,3 +247,7 @@ https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
 #EXTINF:-1 tvg-id="65c69d25-e6d1-4262-955a-fa088a85ab63" tvg-name="TV Com" tvg-logo="https://i.postimg.cc/vZDMM775/tvcom.png" group-title="Recomendados",128 - TV Com
 https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
+#EXTINF:-1 tvg-id="b9c928a6-1bad-41a9-8ece-28c1565bb786" tvg-name="Em breve novo canal" tvg-logo="https://i.postimg.cc/25pdPvHj/aviso-mais-um-canal.jpg" group-title="Recomendados",129 - Em breve novo canal
+https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
+#EXTINF:-1 tvg-id="606e2128-bd45-4f2a-a307-7d5f78dea91c" tvg-name="Prisma TV" tvg-logo="https://i.postimg.cc/SNYM3BCB/prisma-tv.jpg" group-title="Variedades",130 - Prisma TV
+https://stmv2.srvif.com/famasi/famasi/playlist.m3u8
