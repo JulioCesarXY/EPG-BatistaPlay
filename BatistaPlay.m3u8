@@ -247,7 +247,7 @@ https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
 #EXTINF:-1 tvg-id="65c69d25-e6d1-4262-955a-fa088a85ab63" tvg-name="TV Com" tvg-logo="https://i.postimg.cc/vZDMM775/tvcom.png" group-title="Recomendados",128 - TV Com
 https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
-#EXTINF:-1 tvg-id="b9c928a6-1bad-41a9-8ece-28c1565bb786" tvg-name="Em breve novo canal" tvg-logo="https://i.postimg.cc/25pdPvHj/aviso-mais-um-canal.jpg" group-title="Recomendados",129 - Em breve novo canal
-https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
+#EXTINF:-1 tvg-id="b9c928a6-1bad-41a9-8ece-28c1565bb786" tvg-name="Rede Mariana" tvg-logo="https://i.postimg.cc/Ghhn6JZG/rede-mariana.jpg" group-title="Religiosos",129 - Rede Mariana
+https://stmv2.srvif.com/redemariana/redemariana/playlist.m3u8
 #EXTINF:-1 tvg-id="606e2128-bd45-4f2a-a307-7d5f78dea91c" tvg-name="Prisma TV" tvg-logo="https://i.postimg.cc/SNYM3BCB/prisma-tv.jpg" group-title="Variedades",130 - Prisma TV
 https://stmv2.srvif.com/famasi/famasi/playlist.m3u8
