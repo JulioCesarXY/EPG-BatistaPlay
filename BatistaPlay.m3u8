@@ -249,5 +249,11 @@ https://isaocorp.cloudecast.com/astraltv/index.m3u8
 https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
 #EXTINF:-1 tvg-id="b9c928a6-1bad-41a9-8ece-28c1565bb786" tvg-name="Rede Mariana" tvg-logo="https://i.postimg.cc/Ghhn6JZG/rede-mariana.jpg" group-title="Religiosos",129 - Rede Mariana
 https://stmv2.srvif.com/redemariana/redemariana/playlist.m3u8
-#EXTINF:-1 tvg-id="606e2128-bd45-4f2a-a307-7d5f78dea91c" tvg-name="Prisma TV" tvg-logo="https://i.postimg.cc/SNYM3BCB/prisma-tv.jpg" group-title="Variedades",130 - Prisma TV
+#EXTINF:-1 tvg-id="606e2128-bd45-4f2a-a307-7d5f78dea91c" tvg-name="Prisma TV" tvg-logo="https://i.postimg.cc/B6vG8y1d/prisma-tv.jpg" group-title="Variedades",130 - Prisma TV
 https://stmv2.srvif.com/famasi/famasi/playlist.m3u8
+#EXTINF:-1 tvg-id="54a4d1cd-c2c7-42c4-a1e6-07683a263a11" tvg-name="Novelas Prime" tvg-logo="https://i.postimg.cc/tgpDBYWT/novelas-prime.jpg" group-title="Recomendados",131 - Novelas Prime
+https://srv3.zcast.com.br/lucas9425/lucas9425/playlist.m3u8
+#EXTINF:-1 tvg-id="77640c0f-36c3-43ba-bb88-d21228ee381e" tvg-name="Rede Maranhão" tvg-logo="https://i.postimg.cc/pL6zFrkP/rede-maranhao.jpg" group-title="Variedades",132 - Rede Maranhão
+https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8
+#EXTINF:-1 tvg-id="dc7ef9db-73cc-401c-8524-6ec0dfbecae1" tvg-name="ESTV" tvg-logo="https://i.postimg.cc/nhPBDrTF/estv-logo.jpg" group-title="Variedades",133 - ESTV
+https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
