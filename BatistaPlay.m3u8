@@ -263,5 +263,5 @@ https://srv1.streaminghd.net.br/tvconecta/tvconecta/playlist.m3u8
 https://tv.rbti.tv.br/rbti1/index.m3u8
 #EXTINF:-1 tvg-id="811cadd8-7f8e-412e-81e7-4fba85eac3fe" tvg-name="RBTI Movies" tvg-logo="https://i.postimg.cc/SQ3FcppQ/rbti.png" group-title="Filmes",136 - RBTI Movies
 https://tv.rbti.tv.br/rbti2/index.m3u8
-#EXTINF:-1 tvg-id="c4262838-2718-4ac9-826d-f69bb4270220" tvg-name="TUBACAST TV+" tvg-logo="https://i.postimg.cc/jSZGdWtc/tubacast.png" group-title="Notícias",137 - TUBACAST TV+
+#EXTINF:-1 tvg-id="c4262838-2718-4ac9-826d-f69bb4270220" tvg-name="TUBACAST TV+" tvg-logo="https://i.postimg.cc/ZYp28CFk/tubacast.png" group-title="Notícias",137 - TUBACAST TV+
 https://tv.rbti.tv.br/rbti4/index.m3u8
