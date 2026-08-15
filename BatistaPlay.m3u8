@@ -265,3 +265,11 @@ https://tv.rbti.tv.br/rbti1/index.m3u8
 https://tv.rbti.tv.br/rbti2/index.m3u8
 #EXTINF:-1 tvg-id="c4262838-2718-4ac9-826d-f69bb4270220" tvg-name="TUBACAST TV+" tvg-logo="https://i.postimg.cc/ZYp28CFk/tubacast.png" group-title="Notícias",137 - TUBACAST TV+
 https://tv.rbti.tv.br/rbti4/index.m3u8
+#EXTINF:-1 tvg-id="b8d8e30f-a16e-4865-adf7-8c1321196407" tvg-name="TVNA filmes" tvg-logo="https://i.postimg.cc/pTFJ912p/tvna-filmes.png" group-title="Filmes",138 - TVNA filmes
+https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
+#EXTINF:-1 tvg-id="f5d7bd25-4da4-4b04-af5c-7eddfb3f9669" tvg-name="TV GALINHA CHOCA" tvg-logo="https://i.postimg.cc/sXh4B0VX/tv-galinha-choca.png" group-title="Variedades",139 - TV GALINHA CHOCA
+https://stmv7.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8
+#EXTINF:-1 tvg-id="14cf6458-f760-436a-b604-72bfa7838907" tvg-name="Tv NND" tvg-logo="https://i.postimg.cc/4d9QKFJX/tv-nnd.png" group-title="Recomendados",140 - Tv NND
+https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
+#EXTINF:-1 tvg-id="1907ed1d-433d-4646-8f37-a16bf19a1d8b" tvg-name="Tv Litoral Leste" tvg-logo="https://i.postimg.cc/Y9Wz4ypS/tv-litoral-leste.png" group-title="Recomendados",141 - Tv Litoral Leste
+https://stmv1.voxtvhd.com.br/tvaracati/tvaracati/playlist.m3u8
