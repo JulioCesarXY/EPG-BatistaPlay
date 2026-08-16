@@ -259,9 +259,9 @@ https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8
 https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
 #EXTINF:-1 tvg-id="13a1eba8-7728-4bd6-8cd3-fcac118fdf2d" tvg-name="TV Conecta" tvg-logo="https://i.postimg.cc/bYWc1jjz/tv-conecta.png" group-title="Recomendados",134 - TV Conecta
 https://srv1.streaminghd.net.br/tvconecta/tvconecta/playlist.m3u8
-#EXTINF:-1 tvg-id="ef0bae06-3d51-4633-a870-5f5ad8f47639" tvg-name="RBTI+TV" tvg-logo="https://i.postimg.cc/kGYKdhz1/canal-de-testes.jpg" group-title="Recomendados",135 - RBTI+TV
+#EXTINF:-1 tvg-id="ef0bae06-3d51-4633-a870-5f5ad8f47639" tvg-name="RBTI+TV" tvg-logo="https://i.postimg.cc/SQ3FcppQ/rbti.png" group-title="Recomendados",135 - RBTI+TV
 https://tv.rbti.tv.br/rbti1/index.m3u8
-#EXTINF:-1 tvg-id="811cadd8-7f8e-412e-81e7-4fba85eac3fe" tvg-name="RBTI Movies" tvg-logo="https://i.postimg.cc/SQ3FcppQ/rbti.png" group-title="Filmes",136 - RBTI Movies
+#EXTINF:-1 tvg-id="811cadd8-7f8e-412e-81e7-4fba85eac3fe" tvg-name="RBTI Movies" tvg-logo="https://i.postimg.cc/d137vf5s/rbti-movies.jpg" group-title="Filmes",136 - RBTI Movies
 https://tv.rbti.tv.br/rbti2/index.m3u8
 #EXTINF:-1 tvg-id="c4262838-2718-4ac9-826d-f69bb4270220" tvg-name="TUBACAST TV+" tvg-logo="https://i.postimg.cc/ZYp28CFk/tubacast.png" group-title="Notícias",137 - TUBACAST TV+
 https://tv.rbti.tv.br/rbti4/index.m3u8
