@@ -275,3 +275,5 @@ https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
 https://stmv1.voxtvhd.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 tvg-id="a6437345-38c7-4288-a6fb-2089be748ef2" tvg-name="Avivando Nações" tvg-logo="https://i.postimg.cc/4xKqKzxc/avivando-nacoes.png" group-title="Religiosos",142 - Avivando Nações
 https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
+#EXTINF:-1 tvg-id="07df9d0c-6c37-4c0b-9645-aeb04a521563" tvg-name="Araruna TV" tvg-logo="https://i.postimg.cc/zGkc20Lf/araruna-tv.png" group-title="Variedades",143 - Araruna TV
+https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
