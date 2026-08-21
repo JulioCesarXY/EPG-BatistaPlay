@@ -51,8 +51,8 @@ https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/in
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8
 #EXTINF:-1 tvg-id="4e986e58-9db4-4be3-9a04-181493b3b872" tvg-name="TV Record" tvg-logo="https://i.postimg.cc/PfKLvRv5/record-tv.png" group-title="TV Aberta",30 - TV Record
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="a3d0cbec-4cbb-4c8e-b0f5-509b1c34c4da" tvg-name="Canal 29" tvg-logo="https://i.postimg.cc/3Rf8d64W/canal-29-logo.png" group-title="Recomendados",31 - Canal 29
-https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
+#EXTINF:-1 tvg-id="a3d0cbec-4cbb-4c8e-b0f5-509b1c34c4da" tvg-name="Mega One TV" tvg-logo="https://i.postimg.cc/N020CmLD/mega-one-tv.jpg" group-title="Filmes",31 - Mega One TV
+https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
 #EXTINF:-1 tvg-id="8521bcbf-4dc7-4909-95a1-09131f69361e" tvg-name="TV Cultura" tvg-logo="https://i.postimg.cc/g2pVCyLn/tv-cultura.jpg" group-title="TV Aberta",32 - TV Cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2010912641.m3u8
 #EXTINF:-1 tvg-id="9187a9a5-7d7b-4ce3-a4a5-53079f95e04f" tvg-name="SBT" tvg-logo="https://i.postimg.cc/3RkmXnVb/sbt.png" group-title="TV Aberta",33 - SBT
@@ -277,3 +277,9 @@ https://stmv1.voxtvhd.com.br/tvaracati/tvaracati/playlist.m3u8
 https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
 #EXTINF:-1 tvg-id="07df9d0c-6c37-4c0b-9645-aeb04a521563" tvg-name="Araruna TV" tvg-logo="https://i.postimg.cc/zGkc20Lf/araruna-tv.png" group-title="Variedades",143 - Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-id="53a3fd3b-2fca-4695-9eca-db226f43a310" tvg-name="NBX TV" tvg-logo="https://i.postimg.cc/YSLSDYj8/nbx-tv.jpg" group-title="Variedades",144 - NBX TV
+https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ec5e1a51-4afe-4021-be1d-134fb92c8e1e" tvg-name="NBX Pipoca" tvg-logo="https://i.postimg.cc/cJtJkw6X/nbx-pipoca.jpg" group-title="Filmes",145 - NBX Pipoca
+https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8
+#EXTINF:-1 tvg-id="09e84f39-53c9-4f47-833c-7ca14f3ab1c3" tvg-name="NBX Kids" tvg-logo="https://i.postimg.cc/mr1rpChm/nbx-kids.jpg" group-title="Infantis",146 - NBX Kids
+https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
