@@ -85,7 +85,7 @@ https://origin-fast.b-cdn.net/VEJA_PLUS/tracks-v1a1/mono.ts.m3u8?app_id=1&app_na
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="88606c17-d3f1-4cec-87ea-6e3b8220dce0" tvg-name="CBTV Play" tvg-logo="https://i.postimg.cc/htgntm8L/cbtv-play.jpg" group-title="Variedades",47 - CBTV Play
 https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8
-#EXTINF:-1 tvg-id="f1013a6c-6a5c-4e0e-b1b7-01f9ccb25a68" tvg-name="TES TV" tvg-logo="https://i.postimg.cc/bwFySFN9/tes_tv.jpg" group-title="Variedades",48 - TES TV
+#EXTINF:-1 tvg-id="f1013a6c-6a5c-4e0e-b1b7-01f9ccb25a68" tvg-name="TES TV" tvg-logo="https://i.postimg.cc/fWjYNFsd/rede-tes-tv.png" group-title="Variedades",48 - TES TV
 https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
 #EXTINF:-1 tvg-id="4393420c-e35e-48ae-9f10-1d7a7a28bc3b" tvg-name="TV Grande Natal" tvg-logo="https://i.postimg.cc/zGdkPV39/tv-grande-natal.jpg" group-title="Recomendados",49 - TV Grande Natal
 https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
@@ -231,7 +231,7 @@ https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
 https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8
 #EXTINF:-1 tvg-id="19fa2952-f25c-404d-92fc-f8f078dca050" tvg-name="BDC TV" tvg-logo="https://i.postimg.cc/D0Wwhpkn/bdc-tv.jpg" group-title="Recomendados",120 - BDC TV
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
-#EXTINF:-1 tvg-id="94cd8a35-5123-42f2-b3f5-32cbd3656d78" tvg-name="Rede Maischeti" tvg-logo="https://i.postimg.cc/3xb80bJZ/rede-maischeti.jpg" group-title="Variedades",121 - Rede Maischeti
+#EXTINF:-1 tvg-id="94cd8a35-5123-42f2-b3f5-32cbd3656d78" tvg-name="Rede Maischeti" tvg-logo="https://i.postimg.cc/Bv6KcQPV/rede-maischeti.jpg" group-title="Variedades",121 - Rede Maischeti
 https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8
 #EXTINF:-1 tvg-id="0c0ac637-bf04-49fb-82c5-0cd6b01401bf" tvg-name="TV Gazin" tvg-logo="https://i.postimg.cc/PJZcjPSP/tv-gazin.jpg" group-title="Recomendados",122 - TV Gazin
 https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
