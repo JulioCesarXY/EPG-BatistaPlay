@@ -221,8 +221,8 @@ https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8
 https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="ef279cee-892f-401c-b224-26f05e4d8735" tvg-name="IPP TV" tvg-logo="https://i.postimg.cc/mrWx6hXb/rede-ipptvp-logo.jpg" group-title="Religiosos",115 - IPP TV
 https://tv.ippmais.com.br/live/26092358420999225499.m3u8
-#EXTINF:-1 tvg-id="c4d78411-bfd4-4eff-a546-fc1dbc06017d" tvg-name="Em breve novo canal" tvg-logo="https://i.postimg.cc/25pdPvHj/aviso-mais-um-canal.jpg" group-title="Recomendados",116 - Em breve novo canal
-https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
+#EXTINF:-1 tvg-id="c4d78411-bfd4-4eff-a546-fc1dbc06017d" tvg-name="Canal Infantil" tvg-logo="https://i.postimg.cc/4N4xbjtY/canal-infatil-brasileiro.png" group-title="Infantis",116 - Canal Infantil
+https://stmv1.voxtvhd.com.br/canalinfantil/canalinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="ebda25d8-6033-47ff-a4cf-bb7eaa5c917f" tvg-name="Nickonline" tvg-logo="https://i.postimg.cc/BQcPnGB4/nick-online.jpg" group-title="Infantis",117 - Nickonline
 https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="04fa9fa6-dd9c-4779-b9f8-22523a7ee626" tvg-name="Comedy Club" tvg-logo="https://i.postimg.cc/25fbwYpT/comedy-club.jpg" group-title="Variedades",118 - Comedy Club
@@ -268,7 +268,7 @@ https://tv.rbti.tv.br/rbti4/index.m3u8
 #EXTINF:-1 tvg-id="b8d8e30f-a16e-4865-adf7-8c1321196407" tvg-name="TVNA filmes" tvg-logo="https://i.postimg.cc/pTFJ912p/tvna-filmes.png" group-title="Filmes",138 - TVNA filmes
 https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
 #EXTINF:-1 tvg-id="f5d7bd25-4da4-4b04-af5c-7eddfb3f9669" tvg-name="TV GALINHA CHOCA" tvg-logo="https://i.postimg.cc/sXh4B0VX/tv-galinha-choca.png" group-title="Variedades",139 - TV GALINHA CHOCA
-https://stmv7.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8
+https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8
 #EXTINF:-1 tvg-id="14cf6458-f760-436a-b604-72bfa7838907" tvg-name="Tv NND" tvg-logo="https://i.postimg.cc/4d9QKFJX/tv-nnd.png" group-title="Recomendados",140 - Tv NND
 https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
 #EXTINF:-1 tvg-id="1907ed1d-433d-4646-8f37-a16bf19a1d8b" tvg-name="Tv Litoral Leste" tvg-logo="https://i.postimg.cc/Y9Wz4ypS/tv-litoral-leste.png" group-title="Recomendados",141 - Tv Litoral Leste
