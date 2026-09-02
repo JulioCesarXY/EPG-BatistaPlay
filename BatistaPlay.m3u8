@@ -283,3 +283,21 @@ https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
 https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8
 #EXTINF:-1 tvg-id="09e84f39-53c9-4f47-833c-7ca14f3ab1c3" tvg-name="NBX Kids" tvg-logo="https://i.postimg.cc/mr1rpChm/nbx-kids.jpg" group-title="Infantis",146 - NBX Kids
 https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
+#EXTINF:-1 tvg-id="09e2b899-db6b-4e47-afdc-9f3430c53b17" tvg-name="RS PLAY" tvg-logo="https://i.postimg.cc/dtf9QmD7/rs-play.png" group-title="Recomendados",147 - RS PLAY
+https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8
+#EXTINF:-1 tvg-id="d8cb5327-25d5-44c0-b7a3-45f7ae1577f1" tvg-name="RS SPORTS" tvg-logo="https://i.postimg.cc/Ghfj3J9t/rs-sport01.png" group-title="Recomendados",148 - RS SPORTS
+https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
+#EXTINF:-1 tvg-id="206bc396-d78a-4313-bb18-a8f94aa1e836" tvg-name="RS SPORTS 2" tvg-logo="https://i.postimg.cc/jd1hqQCL/rs-sport02.png" group-title="Recomendados",149 - RS SPORTS 2
+https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
+#EXTINF:-1 tvg-id="4472f468-fc2c-45b7-8f39-1f23fbf5e009" tvg-name="RS SPORTS 3" tvg-logo="https://i.postimg.cc/28txjF3L/rs-sport03.png" group-title="Recomendados",150 - RS SPORTS 3
+https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
+#EXTINF:-1 tvg-id="913c176f-0464-4bcd-b4a9-0f76cade19f5" tvg-name="RS SPORTS 4" tvg-logo="https://i.postimg.cc/dtf9QmDy/rs-sport04.png" group-title="Recomendados",151 - RS SPORTS 4
+https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
+#EXTINF:-1 tvg-id="4129f081-874e-4ebe-bb30-0e4026013466" tvg-name="RS SPORTS 5" tvg-logo="https://i.postimg.cc/c4zc1M6Y/rs-sport05.png" group-title="Recomendados",152 - RS SPORTS 5
+https://video07.logicahost.com.br/rssports05/rssports05/playlist.m3u8
+#EXTINF:-1 tvg-id="7b96e90e-f930-4ed3-ae56-ec2539aa4269" tvg-name="RS TV" tvg-logo="https://i.postimg.cc/SNPGQ7jC/rs-tv.png" group-title="Recomendados",153 - RS TV
+https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
+#EXTINF:-1 tvg-id="0db95c76-0cb6-412f-8aee-ac66809aa4af" tvg-name="RS News" tvg-logo="https://i.postimg.cc/hPY04bhj/rs-news.png" group-title="Notícias",154 - RS News
+https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
+#EXTINF:-1 tvg-id="826c6057-58e9-435d-b2eb-c5b43453f082" tvg-name="K Pop TV Play" tvg-logo="https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay.png" group-title="Recomendados",155 - K Pop TV Play
+https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
