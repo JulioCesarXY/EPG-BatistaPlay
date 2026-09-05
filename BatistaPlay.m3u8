@@ -93,8 +93,8 @@ https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
 https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 #EXTINF:-1 tvg-id="6cfb3afe-1881-42a3-b352-606a66e6e59f" tvg-name="BS TV Online" tvg-logo="https://i.postimg.cc/bJk7dg4Q/bstv-online.jpg" group-title="Recomendados",51 - BS TV Online
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
-#EXTINF:-1 tvg-id="0f6f970c-e72c-4468-a522-9b0522d45b17" tvg-name="Globo RJ" tvg-logo="https://i.postimg.cc/TY6wHCzf/redeglobo.jpg" group-title="TV Aberta",52 - Globo RJ
-https://gerenciar.vivatele.com/viva_padrao/viva2384/1.m3u8
+#EXTINF:-1 tvg-id="0f6f970c-e72c-4468-a522-9b0522d45b17" tvg-name="Globo TV Morena MG" tvg-logo="https://i.postimg.cc/TY6wHCzf/redeglobo.jpg" group-title="TV Aberta",52 - Globo TV Morena MG
+https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 #EXTINF:-1 tvg-id="dfbddef4-cb59-42a9-a7b4-09f119d0f848" tvg-name="IBT" tvg-logo="https://i.postimg.cc/gcBZ12fV/rede_ibt.jpg" group-title="Variedades",53 - IBT
 https://stmv1.paineldevideo.com.br/parceriawebtv1/parceriawebtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="fda954fe-0e3c-4773-ab29-adc276c9e3ad" tvg-name="TV São Gabriel" tvg-logo="https://i.postimg.cc/s2wN6x62/tv-sao-gabriel.jpg" group-title="Variedades",54 - TV São Gabriel
@@ -167,7 +167,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="d3982c36-2eda-4102-bb52-9ee92f6d6526" tvg-name="Rabelo" tvg-logo="https://i.postimg.cc/kgRYS85n/tv-rabelo.jpg" group-title="Religiosos",88 - Rabelo
 https://stv1.ipstm.net:3080/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="98c3db29-cec2-45e4-932c-2747185d2e54" tvg-name="TV Singular" tvg-logo="https://i.postimg.cc/SsRjXYqd/lingular-tv-logo2.png" group-title="Recomendados",89 - TV Singular
+#EXTINF:-1 tvg-id="98c3db29-cec2-45e4-932c-2747185d2e54" tvg-name="TV Singular" tvg-logo="https://i.postimg.cc/d1wFkDws/novalogo-logo-tv-singular.png" group-title="Recomendados",89 - TV Singular
 https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1486298669.m3u8
 #EXTINF:-1 tvg-id="7521941a-7484-4549-8d3e-f30d38836cc5" tvg-name="Latina Sat" tvg-logo="https://i.postimg.cc/q7RqHZXQ/latina_sat.jpg" group-title="Variedades",90 - Latina Sat
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
