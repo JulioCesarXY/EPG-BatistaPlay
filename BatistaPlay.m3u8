@@ -305,3 +305,5 @@ https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="013314a3-dddb-4559-8437-5e1908c9a5cf" tvg-name="TV Nova MT" tvg-logo="https://i.postimg.cc/nh1FztHm/tvnova-mt.png" group-title="TV Aberta",157 - TV Nova MT
 https://video04.logicahost.com.br/tvnovaweb/tvnovaweb/playlist.m3u8
+#EXTINF:-1 tvg-id="d203f2c6-94e1-456d-b009-e58ebfb7a353" tvg-name="TV Cruzeiro do Brasil" tvg-logo="https://i.postimg.cc/02RwkYfs/tv-cruzeirobrasil.png" group-title="Variedades",158 - TV Cruzeiro do Brasil
+https://stmv2.voxtvhd.com.br/joao1366/joao1366/playlist.m3u8?1789135064
