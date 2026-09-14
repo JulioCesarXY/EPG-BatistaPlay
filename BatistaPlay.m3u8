@@ -249,7 +249,7 @@ https://isaocorp.cloudecast.com/astraltv/index.m3u8
 https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
 #EXTINF:-1 tvg-id="b9c928a6-1bad-41a9-8ece-28c1565bb786" tvg-name="Rede Mariana" tvg-logo="https://i.postimg.cc/Ghhn6JZG/rede-mariana.jpg" group-title="Religiosos",129 - Rede Mariana
 https://stmv2.srvif.com/redemariana/redemariana/playlist.m3u8
-#EXTINF:-1 tvg-id="606e2128-bd45-4f2a-a307-7d5f78dea91c" tvg-name="Prisma TV" tvg-logo="https://i.postimg.cc/B6vG8y1d/prisma-tv.jpg" group-title="Variedades",130 - Prisma TV
+#EXTINF:-1 tvg-id="606e2128-bd45-4f2a-a307-7d5f78dea91c" tvg-name="Rede Cidade" tvg-logo="https://i.postimg.cc/L5HBzBL4/rede-cidade.jpg" group-title="Variedades",130 - Rede Cidade
 https://stmv2.srvif.com/famasi/famasi/playlist.m3u8
 #EXTINF:-1 tvg-id="54a4d1cd-c2c7-42c4-a1e6-07683a263a11" tvg-name="Canaã News TV" tvg-logo="https://i.postimg.cc/9fKggKJZ/cana-news.png" group-title="Religiosos",131 - Canaã News TV
 https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
