@@ -89,7 +89,7 @@ https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8
 https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
 #EXTINF:-1 tvg-id="4393420c-e35e-48ae-9f10-1d7a7a28bc3b" tvg-name="TV Grande Natal" tvg-logo="https://i.postimg.cc/zGdkPV39/tv-grande-natal.jpg" group-title="Recomendados",49 - TV Grande Natal
 https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
-#EXTINF:-1 tvg-id="514b0c6b-0ccf-4088-aeb6-3fefcfa66767" tvg-name="Lucas TV" tvg-logo="https://i.postimg.cc/4xFfHFNz/lucas_tv.jpg" group-title="Variedades",50 - Lucas TV
+#EXTINF:-1 tvg-id="514b0c6b-0ccf-4088-aeb6-3fefcfa66767" tvg-name="Lucas TV" tvg-logo="https://i.postimg.cc/76cC5fk1/lucas-tv-logo.jpg" group-title="Variedades",50 - Lucas TV
 https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 #EXTINF:-1 tvg-id="6cfb3afe-1881-42a3-b352-606a66e6e59f" tvg-name="BS TV Online" tvg-logo="https://i.postimg.cc/bJk7dg4Q/bstv-online.jpg" group-title="Recomendados",51 - BS TV Online
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
