@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/JulioCesarXY/EPG-BatistaPlay/refs/heads/main/BatistaPlay_EPG.xml"
+#EXTINF:-1 tvg-id="6927afc7-d6f3-4029-8b01-770defa23591" tvg-name="Canal do Usuário" tvg-logo="https://i.postimg.cc/q7jx015D/cana-do-usuario.jpg" group-title="Variedades",4 - Canal do Usuário
+https://cdn.jsdelivr.net/gh/batistabtc/embreve/playlist.m3u8
 #EXTINF:-1 tvg-id="3fe108b6-f51f-4fdf-b054-3339cd8f48cf" tvg-name="Fox Kids" tvg-logo="https://i.postimg.cc/WbMWR38h/fox-kids-network.jpg" group-title="Infantis",5 - Fox Kids
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o
 #EXTINF:-1 tvg-id="16052a14-c050-4c59-b49f-adb719649dae" tvg-name="Já Viu TV" tvg-logo="https://i.postimg.cc/DZTjC0J0/ja-viu-tv.jpg" group-title="Variedades",6 - Já Viu TV
@@ -38,7 +40,7 @@ https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-id="801ecc0e-0f21-4c47-b802-62310b1f4874" tvg-name="Classique TV" tvg-logo="https://i.postimg.cc/vTFQRjWc/classique-tv.jpg" group-title="Filmes",23 - Classique TV
  https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="952ca584-baf2-4e61-9384-0c0337196c57" tvg-name="GLN TV" tvg-logo="https://i.postimg.cc/dtQJdVfY/glntv.png" group-title="Recomendados",24 - GLN TV
-https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
+https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
 #EXTINF:-1 tvg-id="13adbe15-f8c3-4c53-8874-d065910fc682" tvg-name="Rede TV" tvg-logo="https://i.postimg.cc/C5sP4YzB/rede-tv.png" group-title="TV Aberta",25 - Rede TV
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1970019486.m3u8
 #EXTINF:-1 tvg-id="27233016-393f-4f80-a1bb-b17c48d1d8be" tvg-name="TV Kids Mais" tvg-logo="https://i.postimg.cc/Qxh10Z7j/tv-kids-mais.jpg" group-title="Infantis",26 - TV Kids Mais
@@ -60,7 +62,7 @@ https://media.cdntvms.com.br/sbt_sat/index.m3u8
 #EXTINF:-1 tvg-id="3a2d403a-2f01-47bd-91a5-a0ce2b4a979c" tvg-name="Xtreme TV" tvg-logo="https://i.postimg.cc/s2DpXVcz/xtreme-tv.png" group-title="Recomendados",34 - Xtreme TV
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="0722fe6c-dbb8-44a8-a88e-be0985ebc981" tvg-name="AG TV" tvg-logo="https://i.postimg.cc/63D86yTn/ag-tv.jpg" group-title="Recomendados",35 - AG TV
-https://video01.kshost.com.br/grezzana1839/grezzana1839/playlist.m3u8
+https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8?hls_ctx=x105h921
 #EXTINF:-1 tvg-id="f35e03ea-0393-49c0-9f2d-818941feedc1" tvg-name="TV Mais Brasil" tvg-logo="https://i.postimg.cc/9XYT6hfP/tvmaisbrasil.jpg" group-title="Variedades",36 - TV Mais Brasil
  https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="6eb03dc0-51f7-43b3-9cc4-c252cd043e87" tvg-name="Wording TV" tvg-logo="https://i.postimg.cc/3r2YWyFH/wording-de-televisao.png" group-title="Recomendados",37 - Wording TV
@@ -232,7 +234,7 @@ https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8
 #EXTINF:-1 tvg-id="19fa2952-f25c-404d-92fc-f8f078dca050" tvg-name="BDC TV" tvg-logo="https://i.postimg.cc/D0Wwhpkn/bdc-tv.jpg" group-title="Recomendados",120 - BDC TV
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="94cd8a35-5123-42f2-b3f5-32cbd3656d78" tvg-name="Rede Maischeti" tvg-logo="https://i.postimg.cc/Bv6KcQPV/rede-maischeti.jpg" group-title="Variedades",121 - Rede Maischeti
-https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8
+https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
 #EXTINF:-1 tvg-id="0c0ac637-bf04-49fb-82c5-0cd6b01401bf" tvg-name="TV Gazin" tvg-logo="https://i.postimg.cc/PJZcjPSP/tv-gazin.jpg" group-title="Recomendados",122 - TV Gazin
 https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 tvg-id="af7fbb41-fb7e-48f4-b570-7faa8eab9ab5" tvg-name="TV OLHO D’ÁGUA" tvg-logo="https://i.postimg.cc/d3x0zNSc/tvolhodagua.jpg" group-title="Recomendados",123 - TV OLHO D’ÁGUA
@@ -254,7 +256,7 @@ https://stmv2.srvif.com/famasi/famasi/playlist.m3u8
 #EXTINF:-1 tvg-id="54a4d1cd-c2c7-42c4-a1e6-07683a263a11" tvg-name="Canaã News TV" tvg-logo="https://i.postimg.cc/9fKggKJZ/cana-news.png" group-title="Religiosos",131 - Canaã News TV
 https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
 #EXTINF:-1 tvg-id="77640c0f-36c3-43ba-bb88-d21228ee381e" tvg-name="Rede Maranhão" tvg-logo="https://i.postimg.cc/pL6zFrkP/rede-maranhao.jpg" group-title="Variedades",132 - Rede Maranhão
-https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8
+https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
 #EXTINF:-1 tvg-id="dc7ef9db-73cc-401c-8524-6ec0dfbecae1" tvg-name="ESTV" tvg-logo="https://i.postimg.cc/nhPBDrTF/estv-logo.jpg" group-title="Variedades",133 - ESTV
 https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
 #EXTINF:-1 tvg-id="13a1eba8-7728-4bd6-8cd3-fcac118fdf2d" tvg-name="TV Conecta" tvg-logo="https://i.postimg.cc/bYWc1jjz/tv-conecta.png" group-title="Recomendados",134 - TV Conecta
