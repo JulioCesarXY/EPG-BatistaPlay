@@ -95,7 +95,7 @@ https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
 https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 #EXTINF:-1 tvg-id="6cfb3afe-1881-42a3-b352-606a66e6e59f" tvg-name="BS TV Online" tvg-logo="https://i.postimg.cc/bJk7dg4Q/bstv-online.jpg" group-title="Recomendados",51 - BS TV Online
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
-#EXTINF:-1 tvg-id="0f6f970c-e72c-4468-a522-9b0522d45b17" tvg-name="Globo TV Morena MG" tvg-logo="https://i.postimg.cc/TY6wHCzf/redeglobo.jpg" group-title="TV Aberta",52 - Globo TV Morena MG
+#EXTINF:-1 tvg-id="0f6f970c-e72c-4468-a522-9b0522d45b17" tvg-name="Globo TV Morena MS" tvg-logo="https://i.postimg.cc/TY6wHCzf/redeglobo.jpg" group-title="TV Aberta",52 - Globo TV Morena MS
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 #EXTINF:-1 tvg-id="dfbddef4-cb59-42a9-a7b4-09f119d0f848" tvg-name="IBT" tvg-logo="https://i.postimg.cc/gcBZ12fV/rede_ibt.jpg" group-title="Variedades",53 - IBT
 https://stmv1.paineldevideo.com.br/parceriawebtv1/parceriawebtv1/playlist.m3u8
