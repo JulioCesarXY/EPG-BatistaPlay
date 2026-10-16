@@ -109,7 +109,7 @@ https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8
 #EXTINF:-1 tvg-id="c6a355c3-5591-4ff5-89b9-d136506815e2" tvg-name="Adesso TV" tvg-logo="https://i.postimg.cc/ZqZ88TZv/adesso-tv.jpg" group-title="Variedades",58 - Adesso TV
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1 tvg-id="f0010685-43dc-4c16-97e0-30a4ea67dacc" tvg-name="Nicktoons" tvg-logo="https://i.postimg.cc/t70kcjXC/nicktoons.jpg" group-title="Infantis",59 - Nicktoons
+#EXTINF:-1 tvg-id="f0010685-43dc-4c16-97e0-30a4ea67dacc" tvg-name="Nick WebTV" tvg-logo="https://i.postimg.cc/C5n7Z4RH/nick-web-tv.jpg" group-title="Infantis",59 - Nick WebTV
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="08e1c6ba-3b29-4a2e-8ea9-d5cab1dd9f53" tvg-name="TV Montanha" tvg-logo="https://i.postimg.cc/bwnwF4dr/tv-montanha-logo.jpg" group-title="Internacional",60 - TV Montanha
 https://stmv1.srvif.com/tvmontana/tvmontana/playlist.m3u8
@@ -309,3 +309,7 @@ https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 https://video04.logicahost.com.br/tvnovaweb/tvnovaweb/playlist.m3u8
 #EXTINF:-1 tvg-id="d203f2c6-94e1-456d-b009-e58ebfb7a353" tvg-name="TV Cruzeiro do Brasil" tvg-logo="https://i.postimg.cc/02RwkYfs/tv-cruzeirobrasil.png" group-title="Variedades",158 - TV Cruzeiro do Brasil
 https://stmv2.voxtvhd.com.br/joao1366/joao1366/playlist.m3u8?1789135064
+#EXTINF:-1 tvg-id="5f2315d8-902f-4264-a2fc-527bed169489" tvg-name="Atrios TV" tvg-logo="https://i.postimg.cc/FsnJX10C/atrios-tv-logo.jpg" group-title="Religiosos",159 - Atrios TV
+https://stmv5.voxtvhd.com.br/atriostv/atriostv/playlist.m3u8
+#EXTINF:-1 tvg-id="c11fa143-38cf-48c4-bb2c-450360168440" tvg-name="Ldnews" tvg-logo="https://i.postimg.cc/RCGBNrKc/ld-news-logo.jpg" group-title="Variedades",160 - Ldnews
+https://stmv3.voxtvhd.com.br/leandroenzo/leandroenzo/playlist.m3u8
