@@ -96,7 +96,7 @@ https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 #EXTINF:-1 tvg-id="6cfb3afe-1881-42a3-b352-606a66e6e59f" tvg-name="BS TV Online" tvg-logo="https://i.postimg.cc/7Pgs1zSX/bstv-novalogo-03.jpg" group-title="Recomendados",51 - BS TV Online
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 tvg-id="0f6f970c-e72c-4468-a522-9b0522d45b17" tvg-name="Globo TV (SP)" tvg-logo="https://i.postimg.cc/TY6wHCzf/redeglobo.jpg" group-title="TV Aberta",52 - Globo TV (SP)
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globosp.m3u8
+https://origin-01.bariguitelecom.com.br/GLOBO_RPC/index.m3u8
 #EXTINF:-1 tvg-id="dfbddef4-cb59-42a9-a7b4-09f119d0f848" tvg-name="IBT" tvg-logo="https://i.postimg.cc/gcBZ12fV/rede_ibt.jpg" group-title="Variedades",53 - IBT
 https://stmv1.paineldevideo.com.br/parceriawebtv1/parceriawebtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="fda954fe-0e3c-4773-ab29-adc276c9e3ad" tvg-name="TV São Gabriel" tvg-logo="https://i.postimg.cc/s2wN6x62/tv-sao-gabriel.jpg" group-title="Variedades",54 - TV São Gabriel
@@ -161,7 +161,7 @@ https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8
 #EXTINF:-1 tvg-id="694ea749-ee90-446c-ad00-742256c77c74" tvg-name="Ministério Infantil TV" tvg-logo="https://i.postimg.cc/GtrgvgjN/ministerio_infantil.jpg" group-title="Infantis",84 - Ministério Infantil TV
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-#EXTINF:-1 tvg-id="8babd689-b588-48b4-9725-5e092f32ad9f" tvg-name="TV Brasil Sinop" tvg-logo="https://i.postimg.cc/fWYmFj7D/tv_brasil_sinop.jpg" group-title="Variedades",85 - TV Brasil Sinop
+#EXTINF:-1 tvg-id="8babd689-b588-48b4-9725-5e092f32ad9f" tvg-name="TV Brasil Sinop" tvg-logo="https://i.postimg.cc/VvJSKWZ2/1002663005-logo-2.jpg" group-title="Variedades",85 - TV Brasil Sinop
 https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8
 #EXTINF:-1 tvg-id="86a0d5ea-8062-4bdb-b217-f51d3cefc95b" tvg-name="Uni TV" tvg-logo="https://i.postimg.cc/FKf27hq2/uni-tv.jpg" group-title="Recomendados",86 - Uni TV
 https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8
@@ -323,3 +323,5 @@ https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8
 https://stmv1.srvif.com/vivavida/vivavida/playlist.m3u8
 #EXTINF:-1 tvg-id="d4017908-f89b-4254-a4f6-076b2a58b0f3" tvg-name="Rede Classic" tvg-logo="https://i.postimg.cc/gjcYsML8/rede-classic.jpg" group-title="Variedades",165 - Rede Classic
 https://srv2.zcast.com.br/redenovelas/redenovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="190a0dc7-43aa-4648-b41c-51359a37c097" tvg-name="TV Novelas" tvg-logo="https://i.postimg.cc/T16pj5WG/tv-novelas.png" group-title="Variedades",166 - TV Novelas
+https://stmv8.samcast.com.br/lucas7869/lucas7869/playlist.m3u8
