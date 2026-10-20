@@ -39,8 +39,8 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-id="801ecc0e-0f21-4c47-b802-62310b1f4874" tvg-name="Classique TV" tvg-logo="https://i.postimg.cc/vTFQRjWc/classique-tv.jpg" group-title="Filmes",23 - Classique TV
  https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="952ca584-baf2-4e61-9384-0c0337196c57" tvg-name="GLN TV" tvg-logo="https://i.postimg.cc/dtQJdVfY/glntv.png" group-title="Recomendados",24 - GLN TV
-https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
+#EXTINF:-1 tvg-id="952ca584-baf2-4e61-9384-0c0337196c57" tvg-name="BRKS TV" tvg-logo="https://i.postimg.cc/qv3Ftr9t/brks-tv.jpg" group-title="Recomendados",24 - BRKS TV
+https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8
 #EXTINF:-1 tvg-id="13adbe15-f8c3-4c53-8874-d065910fc682" tvg-name="Rede TV" tvg-logo="https://i.postimg.cc/C5sP4YzB/rede-tv.png" group-title="TV Aberta",25 - Rede TV
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1970019486.m3u8
 #EXTINF:-1 tvg-id="27233016-393f-4f80-a1bb-b17c48d1d8be" tvg-name="TV Kids Mais" tvg-logo="https://i.postimg.cc/Qxh10Z7j/tv-kids-mais.jpg" group-title="Infantis",26 - TV Kids Mais
