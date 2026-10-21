@@ -170,7 +170,7 @@ https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="d3982c36-2eda-4102-bb52-9ee92f6d6526" tvg-name="Rabelo" tvg-logo="https://i.postimg.cc/kgRYS85n/tv-rabelo.jpg" group-title="Religiosos",88 - Rabelo
 https://s1.tvr.ovh/video10934/video10934/playlist.m3u8
 #EXTINF:-1 tvg-id="98c3db29-cec2-45e4-932c-2747185d2e54" tvg-name="TV Singular" tvg-logo="https://i.postimg.cc/d1wFkDws/novalogo-logo-tv-singular.png" group-title="Recomendados",89 - TV Singular
-https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1486298669.m3u8
+ https://stmv3.srvsh.com.br/danielsantos1659/danielsantos1659/chunklist_w1674411964.m3u8
 #EXTINF:-1 tvg-id="7521941a-7484-4549-8d3e-f30d38836cc5" tvg-name="Latina Sat" tvg-logo="https://i.postimg.cc/q7RqHZXQ/latina_sat.jpg" group-title="Variedades",90 - Latina Sat
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="38523712-00aa-4360-92a5-88a99ea5d54a" tvg-name="TV Carioca Internacional" tvg-logo="https://i.postimg.cc/0QCKYQpS/tv-carioca.jpg" group-title="Variedades",91 - TV Carioca Internacional
@@ -325,3 +325,7 @@ https://stmv1.srvif.com/vivavida/vivavida/playlist.m3u8
 https://srv2.zcast.com.br/redenovelas/redenovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="190a0dc7-43aa-4648-b41c-51359a37c097" tvg-name="TV Novelas" tvg-logo="https://i.postimg.cc/T16pj5WG/tv-novelas.png" group-title="Variedades",166 - TV Novelas
 https://stmv8.samcast.com.br/lucas7869/lucas7869/playlist.m3u8
+#EXTINF:-1 tvg-id="19949cd4-2e09-46c5-a346-6ff6fccc89a2" tvg-name="L A TV" tvg-logo="https://i.postimg.cc/8csPjsdJ/la-tv-nova-logo.jpg" group-title="Infantis",167 - L A TV
+https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
+#EXTINF:-1 tvg-id="041906a4-b2ec-460b-ba64-600f0657f723" tvg-name="Coletiva TV" tvg-logo="https://i.postimg.cc/VkLNrGYr/coletiva-tv.png" group-title="Recomendados",168 - Coletiva TV
+https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
