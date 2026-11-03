@@ -71,7 +71,7 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1527962150.m3u8
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
 #EXTINF:-1 tvg-id="21b1d6a5-c764-4271-8ac1-54ffd5035fef" tvg-name="ON TV" tvg-logo="https://i.postimg.cc/Y9mq7Rhr/rede-on-tv.jpg" group-title="Recomendados",39 - ON TV
 https://ikki.hubcloud.tv.br/OnTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="5a805f69-6c6b-4aad-80bf-2b7d1366dd52" tvg-name="N Sports" tvg-logo="https://i.postimg.cc/V6znXV4w/nsports.jpg" group-title="Recomendados",40 - N Sports
+#EXTINF:-1 tvg-id="5a805f69-6c6b-4aad-80bf-2b7d1366dd52" tvg-name="N Sports" tvg-logo="https://i.postimg.cc/V6znXV4w/nsports.jpg" group-title="Esportes",40 - N Sports
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
 #EXTINF:-1 tvg-id="66d83622-936a-46f9-8580-0680e05cbc20" tvg-name="Band" tvg-logo="https://i.postimg.cc/Gh8y0j93/tv-bandeirantes.jpg" group-title="TV Aberta",41 - Band
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
@@ -89,7 +89,7 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8
 #EXTINF:-1 tvg-id="f1013a6c-6a5c-4e0e-b1b7-01f9ccb25a68" tvg-name="TES TV" tvg-logo="https://i.postimg.cc/fWjYNFsd/rede-tes-tv.png" group-title="Variedades",48 - TES TV
 https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
-#EXTINF:-1 tvg-id="4393420c-e35e-48ae-9f10-1d7a7a28bc3b" tvg-name="TV Grande Natal" tvg-logo="https://i.postimg.cc/zGdkPV39/tv-grande-natal.jpg" group-title="Recomendados",49 - TV Grande Natal
+#EXTINF:-1 tvg-id="4393420c-e35e-48ae-9f10-1d7a7a28bc3b" tvg-name="TV Grande Natal" tvg-logo="https://i.postimg.cc/zGdkPV39/tv-grande-natal.jpg" group-title="Música",49 - TV Grande Natal
 https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
 #EXTINF:-1 tvg-id="514b0c6b-0ccf-4088-aeb6-3fefcfa66767" tvg-name="Lucas TV" tvg-logo="https://i.postimg.cc/76cC5fk1/lucas-tv-logo.jpg" group-title="Variedades",50 - Lucas TV
 https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
@@ -241,7 +241,7 @@ https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
 https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8
 #EXTINF:-1 tvg-id="6370b276-58a7-4698-8d41-c88858748cc0" tvg-name="IJUÍ PLAY" tvg-logo="https://i.postimg.cc/kMKq946F/ijuiplaytv.jpg" group-title="Recomendados",124 - IJUÍ PLAY
 https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8
-#EXTINF:-1 tvg-id="2501e57a-58cd-4d42-b116-52adfb0848db" tvg-name="CazéTV" tvg-logo="https://i.postimg.cc/JnTJzqd5/cazetv.jpg" group-title="Recomendados",125 - CazéTV
+#EXTINF:-1 tvg-id="2501e57a-58cd-4d42-b116-52adfb0848db" tvg-name="CazéTV" tvg-logo="https://i.postimg.cc/JnTJzqd5/cazetv.jpg" group-title="Esportes",125 - CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="677072bb-a8be-4375-85ac-9797abba4712" tvg-name="TV Brasil Angola" tvg-logo="https://i.postimg.cc/BvSXPFDQ/tvbraasil-angola.jpg" group-title="Variedades",126 - TV Brasil Angola
 https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8
@@ -287,28 +287,28 @@ https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8
 https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
 #EXTINF:-1 tvg-id="09e2b899-db6b-4e47-afdc-9f3430c53b17" tvg-name="RS PLAY" tvg-logo="https://i.postimg.cc/dtf9QmD7/rs-play.png" group-title="Recomendados",147 - RS PLAY
 https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8
-#EXTINF:-1 tvg-id="d8cb5327-25d5-44c0-b7a3-45f7ae1577f1" tvg-name="RS SPORTS" tvg-logo="https://i.postimg.cc/Ghfj3J9t/rs-sport01.png" group-title="Recomendados",148 - RS SPORTS
+#EXTINF:-1 tvg-id="d8cb5327-25d5-44c0-b7a3-45f7ae1577f1" tvg-name="RS SPORTS" tvg-logo="https://i.postimg.cc/Ghfj3J9t/rs-sport01.png" group-title="Esportes",148 - RS SPORTS
 https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
-#EXTINF:-1 tvg-id="206bc396-d78a-4313-bb18-a8f94aa1e836" tvg-name="RS SPORTS 2" tvg-logo="https://i.postimg.cc/jd1hqQCL/rs-sport02.png" group-title="Recomendados",149 - RS SPORTS 2
+#EXTINF:-1 tvg-id="206bc396-d78a-4313-bb18-a8f94aa1e836" tvg-name="RS SPORTS 2" tvg-logo="https://i.postimg.cc/jd1hqQCL/rs-sport02.png" group-title="Esportes",149 - RS SPORTS 2
 https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
-#EXTINF:-1 tvg-id="4472f468-fc2c-45b7-8f39-1f23fbf5e009" tvg-name="RS SPORTS 3" tvg-logo="https://i.postimg.cc/28txjF3L/rs-sport03.png" group-title="Recomendados",150 - RS SPORTS 3
+#EXTINF:-1 tvg-id="4472f468-fc2c-45b7-8f39-1f23fbf5e009" tvg-name="RS SPORTS 3" tvg-logo="https://i.postimg.cc/28txjF3L/rs-sport03.png" group-title="Esportes",150 - RS SPORTS 3
 https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
-#EXTINF:-1 tvg-id="913c176f-0464-4bcd-b4a9-0f76cade19f5" tvg-name="RS SPORTS 4" tvg-logo="https://i.postimg.cc/dtf9QmDy/rs-sport04.png" group-title="Recomendados",151 - RS SPORTS 4
+#EXTINF:-1 tvg-id="913c176f-0464-4bcd-b4a9-0f76cade19f5" tvg-name="RS SPORTS 4" tvg-logo="https://i.postimg.cc/dtf9QmDy/rs-sport04.png" group-title="Esportes",151 - RS SPORTS 4
 https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
-#EXTINF:-1 tvg-id="4129f081-874e-4ebe-bb30-0e4026013466" tvg-name="RS SPORTS 5" tvg-logo="https://i.postimg.cc/c4zc1M6Y/rs-sport05.png" group-title="Recomendados",152 - RS SPORTS 5
+#EXTINF:-1 tvg-id="4129f081-874e-4ebe-bb30-0e4026013466" tvg-name="RS SPORTS 5" tvg-logo="https://i.postimg.cc/c4zc1M6Y/rs-sport05.png" group-title="Esportes",152 - RS SPORTS 5
 https://video07.logicahost.com.br/rssports05/rssports05/playlist.m3u8
 #EXTINF:-1 tvg-id="7b96e90e-f930-4ed3-ae56-ec2539aa4269" tvg-name="RS TV" tvg-logo="https://i.postimg.cc/SNPGQ7jC/rs-tv.png" group-title="Recomendados",153 - RS TV
 https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
 #EXTINF:-1 tvg-id="0db95c76-0cb6-412f-8aee-ac66809aa4af" tvg-name="RS News" tvg-logo="https://i.postimg.cc/hPY04bhj/rs-news.png" group-title="Notícias",154 - RS News
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
-#EXTINF:-1 tvg-id="826c6057-58e9-435d-b2eb-c5b43453f082" tvg-name="K Pop TV Play" tvg-logo="https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay.png" group-title="Recomendados",155 - K Pop TV Play
+#EXTINF:-1 tvg-id="826c6057-58e9-435d-b2eb-c5b43453f082" tvg-name="K Pop TV Play" tvg-logo="https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay.png" group-title="Música",155 - K Pop TV Play
 https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 #EXTINF:-1 tvg-id="b77b02b8-9a41-4a5d-8a8a-63d9b68c49b0" tvg-name="Comedy Central WebTV" tvg-logo="https://i.postimg.cc/7ZHB90cg/comedy-centralwebtv.jpg" group-title="Variedades",156 - Comedy Central WebTV
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="013314a3-dddb-4559-8437-5e1908c9a5cf" tvg-name="TV Nova MT" tvg-logo="https://i.postimg.cc/nh1FztHm/tvnova-mt.png" group-title="TV Aberta",157 - TV Nova MT
 https://video04.logicahost.com.br/tvnovaweb/tvnovaweb/playlist.m3u8
 #EXTINF:-1 tvg-id="d203f2c6-94e1-456d-b009-e58ebfb7a353" tvg-name="TV Cruzeiro do Brasil" tvg-logo="https://i.postimg.cc/02RwkYfs/tv-cruzeirobrasil.png" group-title="Variedades",158 - TV Cruzeiro do Brasil
-https://painel.redetcb.com.br/api/hls/tvcb2f2cb25f/index.m3u8
+https://tcbnacional.redetcb.com.br/api/hls/tvcb2f2cb25f/index.m3u8
 #EXTINF:-1 tvg-id="5f2315d8-902f-4264-a2fc-527bed169489" tvg-name="Atrios TV" tvg-logo="https://i.postimg.cc/FsnJX10C/atrios-tv-logo.jpg" group-title="Religiosos",159 - Atrios TV
 https://stmv5.voxtvhd.com.br/atriostv/atriostv/playlist.m3u8
 #EXTINF:-1 tvg-id="c11fa143-38cf-48c4-bb2c-450360168440" tvg-name="Ldnews" tvg-logo="https://i.postimg.cc/RCGBNrKc/ld-news-logo.jpg" group-title="Variedades",160 - Ldnews
