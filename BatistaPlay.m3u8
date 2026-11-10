@@ -308,7 +308,7 @@ https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="013314a3-dddb-4559-8437-5e1908c9a5cf" tvg-name="TV Nova MT" tvg-logo="https://i.postimg.cc/nh1FztHm/tvnova-mt.png" group-title="TV Aberta",157 - TV Nova MT
 https://video04.logicahost.com.br/tvnovaweb/tvnovaweb/playlist.m3u8
 #EXTINF:-1 tvg-id="d203f2c6-94e1-456d-b009-e58ebfb7a353" tvg-name="TV Cruzeiro do Brasil" tvg-logo="https://i.postimg.cc/02RwkYfs/tv-cruzeirobrasil.png" group-title="Variedades",158 - TV Cruzeiro do Brasil
-https://tcbnacional.redetcb.com.br/api/hls/tvcb2f2cb25f/index.m3u8
+https://tcbnacional.redetcb.com.br/api/hls/tvf1f7cbd093/index.m3u8
 #EXTINF:-1 tvg-id="5f2315d8-902f-4264-a2fc-527bed169489" tvg-name="Atrios TV" tvg-logo="https://i.postimg.cc/FsnJX10C/atrios-tv-logo.jpg" group-title="Religiosos",159 - Atrios TV
 https://stmv5.voxtvhd.com.br/atriostv/atriostv/playlist.m3u8
 #EXTINF:-1 tvg-id="c11fa143-38cf-48c4-bb2c-450360168440" tvg-name="Ldnews" tvg-logo="https://i.postimg.cc/RCGBNrKc/ld-news-logo.jpg" group-title="Variedades",160 - Ldnews
