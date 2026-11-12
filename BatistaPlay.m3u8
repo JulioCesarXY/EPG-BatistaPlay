@@ -24,7 +24,7 @@ https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg0035
 #EXTINF:-1 tvg-id="b277ffea-8bf3-42ef-8f8f-22781302b090" tvg-name="Filmelier TV" tvg-logo="https://i.postimg.cc/0jf73RwY/filmeliertv.jpg" group-title="Filmes",15 - Filmelier TV
 https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="9f850d57-ffff-4e9f-af3c-7537c1f71d32" tvg-name="ISTV" tvg-logo="https://i.postimg.cc/GmZSkzZZ/logo-istv.png" group-title="Variedades",16 - ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1732472063.m3u8
+https://video10.logicahost.com.br/redeistv/redeistv/main_stream.m3u8
 #EXTINF:-1 tvg-id="650a32d6-6730-46ce-87d2-a2e1ca883759" tvg-name="TV Evangelizar" tvg-logo="https://i.postimg.cc/9fW8VhLV/gln-tv-capa.jpg" group-title="Religiosos",17 - TV Evangelizar
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-id="ef248fb8-aebc-45de-b701-198727efdf1f" tvg-name="Rede Brasil" tvg-logo="https://i.postimg.cc/rFzfZmQc/rede-brasil-tv.jpg" group-title="Recomendados",18 - Rede Brasil
@@ -308,7 +308,7 @@ https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="013314a3-dddb-4559-8437-5e1908c9a5cf" tvg-name="TV Nova MT" tvg-logo="https://i.postimg.cc/nh1FztHm/tvnova-mt.png" group-title="TV Aberta",157 - TV Nova MT
 https://video04.logicahost.com.br/tvnovaweb/tvnovaweb/playlist.m3u8
 #EXTINF:-1 tvg-id="d203f2c6-94e1-456d-b009-e58ebfb7a353" tvg-name="TV Cruzeiro do Brasil" tvg-logo="https://i.postimg.cc/02RwkYfs/tv-cruzeirobrasil.png" group-title="Variedades",158 - TV Cruzeiro do Brasil
-https://tcbnacional.redetcb.com.br/api/hls/tvf1f7cbd093/index.m3u8
+https://tcbnacional.redetcb.com.br/api/hls/tv384bf02dac/index.m3u8
 #EXTINF:-1 tvg-id="5f2315d8-902f-4264-a2fc-527bed169489" tvg-name="Atrios TV" tvg-logo="https://i.postimg.cc/FsnJX10C/atrios-tv-logo.jpg" group-title="Religiosos",159 - Atrios TV
 https://stmv5.voxtvhd.com.br/atriostv/atriostv/playlist.m3u8
 #EXTINF:-1 tvg-id="c11fa143-38cf-48c4-bb2c-450360168440" tvg-name="Ldnews" tvg-logo="https://i.postimg.cc/RCGBNrKc/ld-news-logo.jpg" group-title="Variedades",160 - Ldnews
@@ -322,7 +322,7 @@ https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8
 #EXTINF:-1 tvg-id="c3b03a37-9b76-4f36-915c-d9d127029a9c" tvg-name="Viva a Vida TV" tvg-logo="https://i.postimg.cc/L8dKWjPX/viva-vida-tv.png" group-title="Recomendados",164 - Viva a Vida TV
 https://stmv1.srvif.com/vivavida/vivavida/playlist.m3u8
 #EXTINF:-1 tvg-id="d4017908-f89b-4254-a4f6-076b2a58b0f3" tvg-name="Rede Classic" tvg-logo="https://i.postimg.cc/gjcYsML8/rede-classic.jpg" group-title="Variedades",165 - Rede Classic
-https://srv2.zcast.com.br/redenovelas/redenovelas/playlist.m3u8
+https://stmv7.voxtvhd.com.br/fabio4925/fabio4925/playlist.m3u8
 #EXTINF:-1 tvg-id="190a0dc7-43aa-4648-b41c-51359a37c097" tvg-name="TV Novelas" tvg-logo="https://i.postimg.cc/T16pj5WG/tv-novelas.png" group-title="Variedades",166 - TV Novelas
 https://stmv8.samcast.com.br/lucas7869/lucas7869/playlist.m3u8
 #EXTINF:-1 tvg-id="19949cd4-2e09-46c5-a346-6ff6fccc89a2" tvg-name="L A TV" tvg-logo="https://i.postimg.cc/8csPjsdJ/la-tv-nova-logo.jpg" group-title="Infantis",167 - L A TV
