@@ -323,9 +323,11 @@ https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8
 https://stmv1.srvif.com/vivavida/vivavida/playlist.m3u8
 #EXTINF:-1 tvg-id="d4017908-f89b-4254-a4f6-076b2a58b0f3" tvg-name="Rede Classic" tvg-logo="https://i.postimg.cc/gjcYsML8/rede-classic.jpg" group-title="Variedades",165 - Rede Classic
 https://stmv7.voxtvhd.com.br/fabio4925/fabio4925/playlist.m3u8
-#EXTINF:-1 tvg-id="190a0dc7-43aa-4648-b41c-51359a37c097" tvg-name="TV Novelas" tvg-logo="https://i.postimg.cc/T16pj5WG/tv-novelas.png" group-title="Variedades",166 - TV Novelas
+#EXTINF:-1 tvg-id="190a0dc7-43aa-4648-b41c-51359a37c097" tvg-name="Rede Novelas de Televisão" tvg-logo="https://i.postimg.cc/tg0N4ZQ2/rede-novelas-de-televisao.jpg" group-title="Variedades",166 - Rede Novelas de Televisão
 https://stmv8.samcast.com.br/lucas7869/lucas7869/playlist.m3u8
 #EXTINF:-1 tvg-id="19949cd4-2e09-46c5-a346-6ff6fccc89a2" tvg-name="L A TV" tvg-logo="https://i.postimg.cc/8csPjsdJ/la-tv-nova-logo.jpg" group-title="Infantis",167 - L A TV
 https://lbgo.bozztv.com/ssh101/ssh101/latvstream/playlist.m3u8
 #EXTINF:-1 tvg-id="041906a4-b2ec-460b-ba64-600f0657f723" tvg-name="Coletiva TV" tvg-logo="https://i.postimg.cc/VkLNrGYr/coletiva-tv.png" group-title="Recomendados",168 - Coletiva TV
 https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
+#EXTINF:-1 tvg-id="254a4d24-93f0-42ee-be8c-f658a86ed88d" tvg-name="XTV" tvg-logo="https://i.postimg.cc/NfLhnb8m/x-tv-nova-emissora-batista-play.jpg" group-title="Infantis",169 - XTV
+https://stmv8.samcast.com.br/cleusa3086/cleusa3086/playlist.m3u8
